@@ -1,2 +1,5 @@
 Day 001 - Java If-Else
 https://hr.gs/ffcbea
+
+Day 002 - Java Stdin and Stdout I
+https://hr.gs/ffaded
