@@ -6,3 +6,6 @@ https://hr.gs/ffaded
 
 Day 003 - Java Output Formatting
 https://hr.gs/edaeab
+
+Day 004 - Java Loops I
+https://hr.gs/e4b
