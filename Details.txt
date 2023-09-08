@@ -9,3 +9,6 @@ https://hr.gs/edaeab
 
 Day 004 - Java Loops I
 https://hr.gs/e4b
+
+Day 005 - Java Loops II
+https://hr.gs/doo
