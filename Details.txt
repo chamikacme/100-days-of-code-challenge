@@ -12,3 +12,6 @@ https://hr.gs/e4b
 
 Day 005 - Java Loops II
 https://hr.gs/doo
+
+Day 006 - Java Datatypes
+https://hr.gs/cdbfbb
