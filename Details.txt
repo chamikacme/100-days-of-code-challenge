@@ -15,3 +15,6 @@ https://hr.gs/doo
 
 Day 006 - Java Datatypes
 https://hr.gs/cdbfbb
+
+Day 007 - Java End-of-file
+https://hr.gs/effffb
