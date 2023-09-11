@@ -18,3 +18,6 @@ https://hr.gs/cdbfbb
 
 Day 007 - Java End-of-file
 https://hr.gs/effffb
+
+Day 008 - Java Static Initializer Block
+https://hr.gs/ec5
