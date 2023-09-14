@@ -27,3 +27,6 @@ https://hr.gs/afdaad
 
 Day 010 - Java Date and Time
 https://hr.gs/efdfaa
+
+Day 011 - Java Currency Formatter
+https://hr.gs/19u4
